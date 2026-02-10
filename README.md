@@ -91,6 +91,7 @@ pip install pandas numpy matplotlib statsmodels scikit-learn
 代码中的数据文件路径需要根据本地环境进行调整
 
 部分代码可能需要根据Python版本进行微调
+（原有的数据丢失，现在代码文件中含有的数据有一些是模拟的）
 
 建议在运行前先查看PDF文件中的完整分析和说明
 
